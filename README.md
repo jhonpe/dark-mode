@@ -1,5 +1,4 @@
-# dark-mode-demo
-
+# Dark Mode
 
 ![Demo](./images/dark-mode-black.jpg)
 
